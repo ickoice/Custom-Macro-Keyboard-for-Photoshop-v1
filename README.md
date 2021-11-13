@@ -3,9 +3,7 @@
 This custom Macro Keyboard uses 8 buttons, and a 5 pin Encoder to control basic settings for Photoshop.
 
 | 1 | 2 | E |
-
 | 3 | 4 | 5 |
-
 | 6 | 7 | 8 |
 
 
