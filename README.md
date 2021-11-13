@@ -18,5 +18,8 @@ _________________
 The encoder has two modes which are toggled by the encoder's button.  
   - Mode 1 - Zoom ( You can zoom in and out by turning the encoder left and right when in this mode )  
   - Mode 2 - Brush Size ( You can make the brush size bigger or smaller by turning the encoder left and right when in this mode )  
+_________________  
+Note: Uncomment the lines that have "KEY_LEFT_CTRL" for Windows and Linux, and use "KEY_LEFT_GUI" for MacOS. 
+
 
 Feel free to reuse the code in your own projects!
