@@ -22,4 +22,9 @@ _________________
 Note: Uncomment the lines that have "KEY_LEFT_CTRL" for Windows and Linux, and use "KEY_LEFT_GUI" for MacOS. 
 
 
+SCHEMATIC:
+
+<img src="https://github.com/ickoice/Custom-Macro-Keyboard-for-Photoshop-v1/blob/main/CustomMacroKeyboardSchematic.png?raw=true" />
+
+
 Feel free to reuse the code in your own projects!
